@@ -1,0 +1,11 @@
+.site-heading {
+  background: #ffb347;
+  background: -webkit-repeating-linear-gradient(#ffb347, #ffcc33);
+  background: -o-repeating-linear-gradient(#ffb347, #ffcc33);
+  background: -moz-repeating-linear-gradient(#ffb347, #ffcc33);
+  background: repeating-linear-gradient(#ffb347, #ffcc33);
+  color: #ffffff;
+}
+#notes-brand{
+    color: #ffffff;
+}
